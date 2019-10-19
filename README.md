@@ -1,36 +1,16 @@
 ## Node，git和Markdowm文档的使用总结
-You can use the [editor on GitHub](https://github.com/gmhcool/gmhcool.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+         在刚开始我对这些英文很陌生，但随着在网上的了解和这一周的使用，我逐步增加了解。
+   
+         node. js让JavaScript成为与PHP等服务端语言平起平坐的脚本语言，使JavaScrpit编写出的代码运行速度极大提示。
+        
+        这次的任务我重复做了许多次，通过与学长和同学的交流，我对它有了更多认识。git是一个开源的分布式版本控制系统，也十分高效。通过学习，我增加了调试能力，理解报错信息，找到解决方案，同样也了解了git的各种命令。
+        
+       初见Markdown，我把它和html联系起来，在查询过后，发现Markdown和html的编辑语言很像。Markdown是一种可以使用普通文本编辑器编写的标记语言，十分轻量，简单，也容易学习。
+       
+       gitbub的学习也很有趣，通过知乎，视频等方式，我了解的github仓库的一些知识及主体应用，总而言之github十分方便。
+       
+       尽管我的学习速度不是很快，但经过这一周的努力（煎熬），我对前端有了更清晰的认识，使用git，Markdown的过程也十分有趣。学习的过程是痛苦的，但获得的快乐是终生的！ 
+       ###哈哈哈
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gmhcool/gmhcool.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
